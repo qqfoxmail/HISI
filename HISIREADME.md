@@ -13,7 +13,10 @@
 Standard System，标准系统：面向应用处理器，例如Arm Cortex-A的设备，参考内存≥128MiB，提供增强的交互能力，提供3D GPU以及硬件合成能力，提供更多控件以及动效更丰富的图形能力，提供完整的应用框架。典型产品有高端的冰箱显示屏等。
 
 #### 编译step1
+编译命令：
 
+    ./build.sh --product-name Hi3516DV300 --ccache
+[错误解决](https://blog.csdn.net/weixin_41865104/article/details/124258249?spm=1001.2014.3001.5501)
 #### 编译step2
 
 ### 源码目录
